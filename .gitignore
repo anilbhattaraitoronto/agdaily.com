@@ -1,0 +1,8 @@
+/node_modules/
+/client/node_modules/
+/client/public/build/
+/client/scripts/
+
+.DS_Store
+agdb.sqlite
+config.js
